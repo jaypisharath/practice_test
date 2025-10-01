@@ -1,0 +1,40 @@
+{
+  "name": "practice_test",
+  "version": "1.0.0",
+  "description": "Node.js framework with Express server and testing capabilities",
+  "main": "src/server/index.js",
+  "scripts": {
+    "start": "node src/server/index.js",
+    "dev": "nodemon src/server/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:client": "jest tests/client/",
+    "test:integration": "jest tests/integration/",
+    "test:server": "jest tests/server/",
+    "client:demo": "node examples/client-demo.js",
+    "client:workflow": "node examples/workflow-demo.js",
+    "lint": "echo 'Linting not configured yet'",
+    "lint:fix": "echo 'Linting not configured yet'"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "testing",
+    "framework"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "nodemon": "^3.1.10",
+    "supertest": "^7.1.4"
+  }
+}

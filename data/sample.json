@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 28,
+    "department": "Engineering",
+    "salary": 75000,
+    "hire_date": "2022-01-15",
+    "performance_score": 8.5,
+    "skills": ["JavaScript", "Python", "React"],
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 32,
+    "department": "Marketing",
+    "salary": 68000,
+    "hire_date": "2021-03-22",
+    "performance_score": 9.2,
+    "skills": ["Digital Marketing", "Analytics", "SEO"],
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Mike Johnson",
+    "age": 45,
+    "department": "Engineering",
+    "salary": 95000,
+    "hire_date": "2019-07-10",
+    "performance_score": 7.8,
+    "skills": ["Java", "Spring", "AWS"],
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Sarah Wilson",
+    "age": 29,
+    "department": "HR",
+    "salary": 62000,
+    "hire_date": "2022-05-18",
+    "performance_score": 8.9,
+    "skills": ["Recruitment", "Training", "Employee Relations"],
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "David Brown",
+    "age": 35,
+    "department": "Sales",
+    "salary": 72000,
+    "hire_date": "2020-11-30",
+    "performance_score": 8.1,
+    "skills": ["CRM", "Negotiation", "Lead Generation"],
+    "active": false
+  },
+  {
+    "id": 6,
+    "name": "Lisa Davis",
+    "age": 27,
+    "department": "Engineering",
+    "salary": 70000,
+    "hire_date": "2022-08-05",
+    "performance_score": 9.0,
+    "skills": ["Node.js", "MongoDB", "Docker"],
+    "active": true
+  },
+  {
+    "id": 7,
+    "name": "Tom Anderson",
+    "age": 41,
+    "department": "Marketing",
+    "salary": 78000,
+    "hire_date": "2018-12-03",
+    "performance_score": 7.5,
+    "skills": ["Brand Management", "Content Strategy", "Social Media"],
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Emily Taylor",
+    "age": 31,
+    "department": "HR",
+    "salary": 65000,
+    "hire_date": "2021-09-14",
+    "performance_score": 8.7,
+    "skills": ["Benefits Administration", "Compliance", "Performance Management"],
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "Chris Miller",
+    "age": 33,
+    "department": "Sales",
+    "salary": 74000,
+    "hire_date": "2020-04-12",
+    "performance_score": 8.3,
+    "skills": ["Salesforce", "Account Management", "Forecasting"],
+    "active": true
+  },
+  {
+    "id": 10,
+    "name": "Amy Garcia",
+    "age": 26,
+    "department": "Engineering",
+    "salary": 68000,
+    "hire_date": "2023-01-20",
+    "performance_score": 9.1,
+    "skills": ["Vue.js", "TypeScript", "GraphQL"],
+    "active": true
+  }
+]

@@ -1,0 +1,11 @@
+I'd like to build a project framework for an app that consists of the following components:
+1. A local endpoint responding to curl GET 'localhost:XXXX/hello_world' with a 200
+status and {"hello": "world"}
+2. A unit testing framework set up with one test that runs and asserts 1==1
+3. Add client with the following capabilities:
+    a. make http requests
+    b. read/write files (csv, json)
+    c. process files (csv, json) to extract patterns/labels
+    c. utilize the unit testing framework
+
+What are the 3 solutions starting with simplest?
