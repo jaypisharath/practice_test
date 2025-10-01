@@ -1,6 +1,6 @@
-# Practice Test Framework
+# Client Server Based Data Processing Framework
 
-A comprehensive Node.js-based application framework with Express server, Jest testing, and advanced client library capabilities.
+A comprehensive Node.js-based application framework with Express server, Jest testing, and advanced client library capabilities. The app has capabilties to upload files, download files and process downloaded files for pattern matching. 
 
 [![Tests](https://img.shields.io/badge/tests-71%20passing-brightgreen)](https://github.com/jaypisharath/practice_test)
 [![Coverage](https://img.shields.io/badge/coverage-82.98%25-brightgreen)](https://github.com/jaypisharath/practice_test)
